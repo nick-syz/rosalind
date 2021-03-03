@@ -1,1 +1,1 @@
-# rasalind
+# rosalind
